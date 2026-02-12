@@ -1,0 +1,8 @@
+{
+  "name": "qmd-plan-sync",
+  "description": "Automatically runs qmd update and qmd embed when plan files are written or edited",
+  "version": "1.0.0",
+  "author": {
+    "name": "Lucian Ghinda"
+  }
+}
