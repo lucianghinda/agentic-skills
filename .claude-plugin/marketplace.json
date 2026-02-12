@@ -4,13 +4,12 @@
     "name": "Lucian Ghinda"
   },
   "metadata": {
-    "description": "Claude Code plugins and skills for agentic workflows",
-    "pluginRoot": "./plugins/claude-code"
+    "description": "Claude Code plugins and skills for agentic workflows"
   },
   "plugins": [
     {
       "name": "qmd-plan-sync",
-      "source": "./qmd-plan-sync",
+      "source": "./plugins/claude-code/qmd-plan-sync",
       "description": "Automatically runs qmd update when plan files are written or edited"
     }
   ]
